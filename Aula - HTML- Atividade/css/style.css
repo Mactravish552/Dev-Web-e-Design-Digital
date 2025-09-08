@@ -38,3 +38,9 @@ header {
     align-items: center;
     padding: 0px 170px 0px 170px;
 }
+
+section > form{
+    text-align: justify;
+    align-items: center;
+    padding: 0px 0px 0px 170px
+}
