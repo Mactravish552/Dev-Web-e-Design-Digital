@@ -1,0 +1,40 @@
+body {
+    border: 0px solid red;
+    max-width: 90%;
+    margin: 20px auto;
+}
+header {
+    max-width: 80%;
+    margin: 20px auto;
+}   
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 0px solid blue;
+    padding: 50px 0px 50px 0px;
+}
+ footer{
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+ }
+
+ article, section > p {
+    text-align: justify;
+    align-items: center;
+    padding: 0px 150px 0px 150px;
+ }
+
+ #capa{
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+ }
+
+ section > p, h1{
+    text-align: justify;
+    align-items: center;
+    padding: 0px 170px 0px 170px;
+}
